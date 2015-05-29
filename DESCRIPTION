@@ -1,0 +1,11 @@
+Package: ugir
+Type: Package
+Title: Functions for registry-based cancer research
+Version: 0.2.4
+Date: 2015-03-05
+Author: Peter Konings
+Maintainer: Peter Konings <peter.konings@ki.se>
+Description: A collection of functions to support registry-based cancer research at UGIR
+License: For internal use only
+Encoding: UTF-8
+Depends: lubridate, DiagrammeR
